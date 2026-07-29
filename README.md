@@ -1,59 +1,85 @@
-> Hello World! 👋 I'm **Karan Vishwakarma**
-> I build high-performance web apps, design systems & seamless digital experiences.
+# `<img src="./assets/hero.svg" width="100%" alt="Hero">`{=html}
 
-<br />
+```{=html}
+<p align="center">
+```
+`<img src="./assets/fastfetch.svg" width="100%">`{=html}
+```{=html}
+</p>
+```
+```{=html}
+<p align="center">
+```
+`<img src="./assets/typing.svg" width="100%">`{=html}
+```{=html}
+</p>
+```
+`<img src="./assets/divider.svg" width="100%"/>`{=html}
 
-`karan@github:~$ fastfetch`
+## \> About Me
 
-<div align="center">
-  <img src="./assets/fastfetch.svg" alt="Fastfetch" width="100%" />
-</div>
-
-<br />
-
-### > Currently Building
-
-```text
-🛠️ Personal Portfolio                 ████████████████████████████░░  90%
-📦 Open Source Projects               ████████████████████████░░░░░░  70%
-🎮 Gametronix Prototype               ███████████████████░░░░░░░░░░░  65%
-📚 Dev Blog                           ████████████████░░░░░░░░░░░░░░  30%
+``` powershell
+PS C:\Users\KARAN> whoami
 ```
 
-<br />
+``` text
+Karan Vishwakarma
+UI/UX Designer • Product Designer
+Building Scalable Design Systems
+High-Performance Web Apps
+```
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KaranVish20&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KaranVish20&theme=tokyonight&hide_border=true&background=00000000" height="165" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaranVish20&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" height="165" alt="Top Languages" />
-</div>
+`<img src="./assets/divider.svg" width="100%"/>`{=html}
 
-<br />
+## \> Currently Building
 
-### > Tech Stack
+-   GameTronix
+-   VUNO
+-   AI IDE Aggregation Proxy Hub
+-   EkAI
 
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,html,css,python,rust,go,figma,vscode,git&theme=dark" alt="Tech Stack" />
-  </a>
+`<img src="./assets/divider.svg" width="100%"/>`{=html}
+
+## \> GitHub Stats
+
+```{=html}
+<p align="center">
+```
+`<img height="180" src="https://github-readme-stats.vercel.app/api?username=KaranVish20&show_icons=true&theme=tokyonight&hide_border=true"/>`{=html}
+`<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=KaranVish20&theme=tokyonight&hide_border=true"/>`{=html}
+```{=html}
 </p>
-
-<br />
-
-### > Recent Activity
-
-- ✔️ Pushed commits to `KaranVish20/Gametronix`
-- ✔️ Opened pull request in `KaranVish20/Spacefolk`
-- ⭐ Starred `vercel/next.js`
-- ➕ Created repository `dev-tools`
-
-<br />
-
-### > Connect with me
-
-<p align="left">
-  <a href="https://github.com/KaranVish20"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://figma.com"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" /></a>
-  <a href="mailto:karan@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+```
+```{=html}
+<p align="center">
+```
+`<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaranVish20&layout=compact&theme=tokyonight&hide_border=true"/>`{=html}
+```{=html}
 </p>
+```
+`<img src="./assets/divider.svg" width="100%"/>`{=html}
+
+## \> Tech Stack
+
+**Languages:** TypeScript • JavaScript • Rust • Go • Python
+
+**Frontend:** React • Next.js • Tailwind CSS • Vite
+
+**Design:** Figma • Obsidian • Draw.io
+
+**IDE:** Antigravity • Claude Code • OpenCode CLI • VS Code
+
+`<img src="./assets/divider.svg" width="100%"/>`{=html}
+
+## \> Connect
+
+-   GitHub: https://github.com/KaranVish20
+-   Email: kvk804141@gmail.com
+
+```{=html}
+<p align="center">
+```
+`<img src="./assets/footer.svg" width="100%">`{=html}
+```{=html}
+</p>
+```
