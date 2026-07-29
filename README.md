@@ -1,65 +1,55 @@
-# `<img src="./assets/hero.svg" width="100%" alt="Hero">`{=html}
+<div align="center">
+  <img src="./assets/hero.svg" width="100%" alt="Hero">
+</div>
 
-```{=html}
 <p align="center">
-```
-`<img src="./assets/fastfetch.svg" width="100%">`{=html}
-```{=html}
+  <img src="./assets/fastfetch.svg" width="100%">
 </p>
-```
-```{=html}
+
 <p align="center">
-```
-`<img src="./assets/typing.svg" width="100%">`{=html}
-```{=html}
+  <img src="./assets/typing.svg" width="100%">
 </p>
-```
-`<img src="./assets/divider.svg" width="100%"/>`{=html}
 
-## \> About Me
+<img src="./assets/divider.svg" width="100%"/>
 
-``` powershell
+## > About Me
+
+```powershell
 PS C:\Users\KARAN> whoami
 ```
 
-``` text
+```text
 Karan Vishwakarma
 UI/UX Designer • Product Designer
 Building Scalable Design Systems
 High-Performance Web Apps
 ```
 
-`<img src="./assets/divider.svg" width="100%"/>`{=html}
+<img src="./assets/divider.svg" width="100%"/>
 
-## \> Currently Building
+## > Currently Building
 
 -   GameTronix
 -   VUNO
 -   AI IDE Aggregation Proxy Hub
 -   EkAI
 
-`<img src="./assets/divider.svg" width="100%"/>`{=html}
+<img src="./assets/divider.svg" width="100%"/>
 
-## \> GitHub Stats
+## > GitHub Stats
 
-```{=html}
 <p align="center">
-```
-`<img height="180" src="https://github-readme-stats.vercel.app/api?username=KaranVish20&show_icons=true&theme=tokyonight&hide_border=true"/>`{=html}
-`<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=KaranVish20&theme=tokyonight&hide_border=true"/>`{=html}
-```{=html}
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=KaranVish20&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=KaranVish20&theme=tokyonight&hide_border=true"/>
 </p>
-```
-```{=html}
-<p align="center">
-```
-`<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaranVish20&layout=compact&theme=tokyonight&hide_border=true"/>`{=html}
-```{=html}
-</p>
-```
-`<img src="./assets/divider.svg" width="100%"/>`{=html}
 
-## \> Tech Stack
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaranVish20&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<img src="./assets/divider.svg" width="100%"/>
+
+## > Tech Stack
 
 **Languages:** TypeScript • JavaScript • Rust • Go • Python
 
@@ -69,17 +59,13 @@ High-Performance Web Apps
 
 **IDE:** Antigravity • Claude Code • OpenCode CLI • VS Code
 
-`<img src="./assets/divider.svg" width="100%"/>`{=html}
+<img src="./assets/divider.svg" width="100%"/>
 
-## \> Connect
+## > Connect
 
 -   GitHub: https://github.com/KaranVish20
 -   Email: kvk804141@gmail.com
 
-```{=html}
 <p align="center">
-```
-`<img src="./assets/footer.svg" width="100%">`{=html}
-```{=html}
+  <img src="./assets/footer.svg" width="100%">
 </p>
-```
