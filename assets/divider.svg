@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="90" viewBox="0 0 1600 90">
+<defs>
+  <linearGradient id="line" x1="0%" y1="0%" x2="100%" y2="0%">
+    <stop offset="0%" stop-color="#8B5CF6" stop-opacity="0"/>
+    <stop offset="20%" stop-color="#8B5CF6"/>
+    <stop offset="50%" stop-color="#C084FC"/>
+    <stop offset="80%" stop-color="#8B5CF6"/>
+    <stop offset="100%" stop-color="#8B5CF6" stop-opacity="0"/>
+  </linearGradient>
+  <filter id="glow">
+    <feGaussianBlur stdDeviation="3" result="b"/>
+    <feMerge>
+      <feMergeNode in="b"/>
+      <feMergeNode in="SourceGraphic"/>
+    </feMerge>
+  </filter>
+  <style>
+    text{font-family:"JetBrains Mono",Consolas,monospace;fill:#C084FC;font-size:18px}
+  </style>
+</defs>
+
+<rect width="1600" height="90" fill="transparent"/>
+<line x1="80" y1="45" x2="1520" y2="45"
+      stroke="url(#line)" stroke-width="3" filter="url(#glow)">
+  <animate attributeName="stroke-dasharray"
+           values="0,1600;200,1400;0,1600"
+           dur="4s"
+           repeatCount="indefinite"/>
+</line>
+
+<circle cx="800" cy="45" r="5" fill="#C084FC">
+  <animate attributeName="r" values="5;8;5" dur="2s" repeatCount="indefinite"/>
+</circle>
+
+<text x="800" y="25" text-anchor="middle">&lt;//────────────────────────────//&gt;</text>
+</svg>
