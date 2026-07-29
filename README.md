@@ -1,16 +1,16 @@
 <div align="center">
-  <img src="./assets/hero.svg" width="100%" alt="Hero">
+  <img src="./assets/hero.svg?v=2" width="100%" alt="Hero">
 </div>
 
 <p align="center">
-  <img src="./assets/fastfetch.svg" width="100%">
+  <img src="./assets/fastfetch.svg?v=2" width="100%">
 </p>
 
 <p align="center">
-  <img src="./assets/typing.svg" width="100%">
+  <img src="./assets/typing.svg?v=2" width="100%">
 </p>
 
-<img src="./assets/divider.svg" width="100%"/>
+<img src="./assets/divider.svg?v=2" width="100%"/>
 
 ## > About Me
 
@@ -67,5 +67,5 @@ High-Performance Web Apps
 -   Email: kvk804141@gmail.com
 
 <p align="center">
-  <img src="./assets/footer.svg" width="100%">
+  <img src="./assets/footer.svg?v=2" width="100%">
 </p>
