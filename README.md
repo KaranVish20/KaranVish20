@@ -1,90 +1,59 @@
-# Hello World! 👋 I'm **Karan Vishwakarma** ✨
+> Hello World! 👋 I'm **Karan Vishwakarma**
+> I build high-performance web apps, design systems & seamless digital experiences.
 
-> UI/UX Designer & Developer building high-performance web applications and scalable design systems.
+<br />
 
-<br/>
-
-<div align="center">
-  <img src="assets/typing.svg" alt="Typing Header" width="100%" />
-</div>
-
-<br/>
-
-```bash
-karan@github:~$ fastfetch
-```
+`karan@github:~$ fastfetch`
 
 <div align="center">
-  <img src="assets/fastfetch.svg" alt="Fastfetch Terminal Specs" width="100%" />
+  <img src="./assets/fastfetch.svg" alt="Fastfetch" width="100%" />
 </div>
 
-<br/>
+<br />
 
 ### > Currently Building
 
-```
-🛠️ Gametronix E-Commerce Prototype   ████████████████████████████░░  90%
-🏛️ VUNO Interior Design Studio        ████████████████████████░░░░░░  80%
-⚙️ AI IDE Aggregation Proxy Hub       ███████████████████░░░░░░░░░░░  65%
-🎨 Advanced Design Tokens System      ████████████████░░░░░░░░░░░░░░  55%
+```text
+🛠️ Personal Portfolio                 ████████████████████████████░░  90%
+📦 Open Source Projects               ████████████████████████░░░░░░  70%
+🎮 Gametronix Prototype               ███████████████████░░░░░░░░░░░  65%
+📚 Dev Blog                           ████████████████░░░░░░░░░░░░░░  30%
 ```
 
-<br/>
-
-### > Stats & Analytics
+<br />
 
 <div align="center">
-  <a href="https://github.com/KaranVish20">
-    <img src="https://github-readme-stats.vercel.app/api?username=KaranVish20&show_icons=true&theme=catppuccin_mocha&hide_border=true&bg_color=11111b&title_color=cba6f7&icon_color=89b4fa&text_color=cdd6f4" height="165" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/KaranVish20">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=KaranVish20&theme=catppuccin_mocha&hide_border=true&background=11111b&stroke=cba6f7&alarm=f38ba8" height="165" alt="GitHub Streak" />
-  </a>
-  <a href="https://github.com/KaranVish20">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaranVish20&layout=compact&theme=catppuccin_mocha&hide_border=true&bg_color=11111b&title_color=cba6f7&text_color=cdd6f4" height="165" alt="Top Languages" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=KaranVish20&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KaranVish20&theme=tokyonight&hide_border=true&background=00000000" height="165" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaranVish20&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" height="165" alt="Top Languages" />
 </div>
 
-<br/>
+<br />
 
 ### > Tech Stack
 
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,html,css,python,rust,go,figma,vscode,git&theme=dark" alt="Tech Stack" />
   </a>
 </p>
 
-<br/>
+<br />
 
 ### > Recent Activity
 
-- ✔️ **Pushed commits to** [`KaranVish20/Gametronix`](https://github.com/KaranVish20/Gametronix) — Block 04 Checkout Summary
-- ✔️ **Completed VUNO Interior Studio** Next.js App Router & Framer Motion Handoff
-- ✔️ **Built AI IDE Aggregation Proxy Hub** with Rust/Axum & credit pooling
-- ✔️ **Configured Debian Workspace & 109 Skills** synchronization
+- ✔️ Pushed commits to `KaranVish20/Gametronix`
+- ✔️ Opened pull request in `KaranVish20/Spacefolk`
+- ⭐ Starred `vercel/next.js`
+- ➕ Created repository `dev-tools`
 
-<br/>
-
-### > Mindset & Creation
-
-<div align="center">
-  <img src="assets/gear5-ansi.svg" alt="Gear 5 ANSI Art" width="100%" />
-</div>
-
-<br/>
+<br />
 
 ### > Connect with me
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/KaranVish20"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://figma.com"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" /></a>
   <a href="mailto:karan@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
-
-<br/>
-
-<div align="center">
-  <img src="assets/footer.svg" alt="Footer Banner" width="100%" />
-</div>
