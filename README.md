@@ -1,8 +1,8 @@
 <div align="center">
   <img src="./assets/hero.svg?v=3" width="100%" alt="Karan Vishwakarma">
-  <br><br>
+  <br>
   <img src="./assets/fastfetch.svg?v=3" width="100%" alt="Profile summary">
-  <br><br>
+  <br>
   <img src="./assets/typing.svg?v=3" width="100%" alt="Typing introduction">
 </div>
 
@@ -10,11 +10,11 @@
 
 <div align="center">
   <img src="./assets/cards/featured-projects.svg?v=4" width="100%" alt="Featured projects">
-  <br><br>
+  <br>
   <img src="./assets/cards/github-stats.svg?v=4" width="100%" alt="GitHub status">
-  <br><br>
+  <br>
   <img src="./assets/cards/top-languages.svg?v=4" width="100%" alt="Top languages">
-  <br><br>
+  <br>
   <img src="./assets/cards/recent-activity.svg?v=4" width="100%" alt="Recent activity">
 </div>
 
