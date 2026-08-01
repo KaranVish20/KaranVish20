@@ -1,8 +1,12 @@
 <div align="center">
   <img src="./assets/hero.svg?v=3" width="100%" alt="Karan Vishwakarma">
+  <br><br>
   <img src="./assets/fastfetch.svg?v=3" width="100%" alt="Profile summary">
+  <br><br>
   <img src="./assets/typing.svg?v=3" width="100%" alt="Typing introduction">
 </div>
+
+<img src="./assets/divider.svg?v=3" width="100%" alt="">
 
 <div align="center">
   <img src="./assets/cards/featured-projects.svg?v=4" width="100%" alt="Featured projects">
