@@ -1,0 +1,5 @@
+{
+  "private": true,
+  "type": "module",
+  "scripts": { "generate": "node scripts/generate-cards.mjs" }
+}

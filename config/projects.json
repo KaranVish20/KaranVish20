@@ -1,0 +1,7 @@
+{
+  "completed": [
+    { "title": "GameTronix", "description": "Gaming e-commerce platform", "stack": ["Next.js", "React", "TypeScript"] },
+    { "title": "VUNO", "description": "Luxury interior design website", "stack": ["Next.js", "Framer Motion"] },
+    { "title": "EkAI", "description": "Educational AI platform", "stack": ["Figma", "Design System"] }
+  ]
+}
