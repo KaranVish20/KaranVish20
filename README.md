@@ -11,7 +11,7 @@
 <div align="center">
   <img src="./assets/cards/featured-projects.svg?v=4" width="100%" alt="Featured projects">
   <br>
-  <img src="./assets/cards/github-stats.svg?v=4" width="100%" alt="GitHub status">
+  <img src="./assets/cards/github-stats.svg?v=5" width="100%" alt="GitHub status">
   <br>
   <img src="./assets/cards/top-languages.svg?v=4" width="100%" alt="Top languages">
   <br>
