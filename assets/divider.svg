@@ -1,37 +1,72 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="90" viewBox="0 0 1600 90">
+<svg width="1600" height="90" viewBox="0 0 1600 90" fill="none" xmlns="http://www.w3.org/2000/svg">
+<style>
+@keyframes kf_Vector_border-width_0 {
+  0% {
+    animation-timing-function: cubic-bezier(0.5, 0, 0.5, 1);
+    stroke-width: 6px;
+  }
+  25.07% {
+    animation-timing-function: cubic-bezier(0.5, 0, 0.5, 1);
+    stroke-width: 2px;
+  }
+  50.08% {
+    animation-timing-function: cubic-bezier(0.5, 0, 0.5, 1);
+    stroke-width: 6px;
+  }
+  75.08% {
+    animation-timing-function: cubic-bezier(0.5, 0, 0.5, 1);
+    stroke-width: 2px;
+  }
+  100% {
+    stroke-width: 6px;
+  }
+}
+#Vector {
+  animation: kf_Vector_border-width_0 4s linear infinite;
+}
+@keyframes kf_Vector_2_transform_0 {
+  0% {
+    transform: translateX(795px) translateY(40px) translateX(0px) translateY(0px);
+  }
+  25% {
+    transform: translateX(795px) translateY(40px) translateX(-3px) translateY(-3px);
+  }
+  50% {
+    transform: translateX(795px) translateY(40px) translateX(0px) translateY(0px);
+  }
+  100% {
+    transform: translateX(795px) translateY(40px) translateX(0px) translateY(0px);
+  }
+}
+#Vector_2 {
+  transform-origin: 0 0;
+  animation: kf_Vector_2_transform_0 4s linear infinite;
+}
+</style>
+<g id="divider_1" clip-path="url(#clip0_2113_7985)">
+<g id="Vector" filter="url(#filter0_f_2113_7985)" transform="translate(80 45)">
+<path d="M0 0H1440" stroke="url(#paint0_linear_2113_7985)" stroke-width="2"/>
+</g>
+<path id="Vector_2" transform="translate(795 40)" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" fill="#C084FC">
+<animate attributeName="d" values="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z; M8 16C12.4183 16 16 12.4183 16 8C16 3.58172 12.4183 0 8 0C3.58172 0 0 3.58172 0 8C0 12.4183 3.58172 16 8 16Z; M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z; M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" keyTimes="0; 0.25; 0.5; 1" keySplines="0 0 1 1; 0 0 1 1; 0 0 1 1" dur="4s" calcMode="spline" repeatCount="indefinite" />
+</path>
+<path id="__________________________________________________________________________________________" transform="translate(564 7)" d="M1.96964 13.3977V12.375L10.2026 8.18182V9.81818L3.88725 12.8608L3.93839 12.7585V13.0142L3.88725 12.9119L10.2026 15.9545V17.5909L1.96964 13.3977ZM18.0281 4.29545L13.8093 19.9688H12.4286L16.6474 4.29545H18.0281ZM24.4441 4.29545L20.2253 19.9688H18.8446L23.0634 4.29545H24.4441ZM24.8516 12.474V11.574H39.9356V12.474H24.8516ZM39.9336 12.474V11.574H55.0176V12.474H39.9336ZM55.0156 12.474V11.574H70.0996V12.474H55.0156ZM70.0977 12.474V11.574H85.1817V12.474H70.0977ZM85.1797 12.474V11.574H100.264V12.474H85.1797ZM100.262 12.474V11.574H115.346V12.474H100.262ZM115.344 12.474V11.574H130.428V12.474H115.344ZM130.426 12.474V11.574H145.51V12.474H130.426ZM145.508 12.474V11.574H160.592V12.474H145.508ZM160.59 12.474V11.574H175.674V12.474H160.59ZM175.672 12.474V11.574H190.756V12.474H175.672ZM190.754 12.474V11.574H205.838V12.474H190.754ZM205.836 12.474V11.574H220.92V12.474H205.836ZM220.918 12.474V11.574H236.002V12.474H220.918ZM236 12.474V11.574H251.084V12.474H236ZM251.082 12.474V11.574H266.166V12.474H251.082ZM266.164 12.474V11.574H281.248V12.474H266.164ZM281.246 12.474V11.574H296.33V12.474H281.246ZM296.328 12.474V11.574H311.412V12.474H296.328ZM311.41 12.474V11.574H326.494V12.474H311.41ZM326.492 12.474V11.574H341.576V12.474H326.492ZM341.574 12.474V11.574H356.658V12.474H341.574ZM356.656 12.474V11.574H371.74V12.474H356.656ZM371.738 12.474V11.574H386.822V12.474H371.738ZM386.82 12.474V11.574H401.904V12.474H386.82ZM401.902 12.474V11.574H416.986V12.474H401.902ZM416.984 12.474V11.574H432.068V12.474H416.984ZM432.066 12.474V11.574H447.15V12.474H432.066ZM453.157 4.29545L448.938 19.9688H447.558L451.776 4.29545H453.157ZM459.573 4.29545L455.354 19.9688H453.974L458.192 4.29545H459.573ZM470.029 13.3977L461.796 17.5909V15.9545L468.111 12.9119L468.06 13.0142V12.7585L468.111 12.8608L461.796 9.81818V8.18182L470.029 12.375V13.3977Z" fill="#C084FC"/>
+</g>
 <defs>
-  <linearGradient id="line" x1="0%" y1="0%" x2="100%" y2="0%">
-    <stop offset="0%" stop-color="#8B5CF6" stop-opacity="0"/>
-    <stop offset="20%" stop-color="#8B5CF6"/>
-    <stop offset="50%" stop-color="#C084FC"/>
-    <stop offset="80%" stop-color="#8B5CF6"/>
-    <stop offset="100%" stop-color="#8B5CF6" stop-opacity="0"/>
-  </linearGradient>
-  <filter id="glow">
-    <feGaussianBlur stdDeviation="3" result="b"/>
-    <feMerge>
-      <feMergeNode in="b"/>
-      <feMergeNode in="SourceGraphic"/>
-    </feMerge>
-  </filter>
-  <style>
-    text{font-family:"JetBrains Mono",Consolas,monospace;fill:#C084FC;font-size:18px}
-  </style>
+<filter id="filter0_f_2113_7985" x="-6" y="-7" width="1452" height="14" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="3" result="effect1_foregroundBlur_2113_7985"/>
+</filter>
+<linearGradient id="paint0_linear_2113_7985" x1="0" y1="0" x2="1440" y2="0" gradientUnits="userSpaceOnUse">
+<stop stop-color="#8B5CF6" stop-opacity="0"/>
+<stop offset="0.2" stop-color="#8B5CF6"/>
+<stop offset="0.5" stop-color="#C084FC"/>
+<stop offset="0.8" stop-color="#8B5CF6"/>
+<stop offset="1" stop-color="#8B5CF6" stop-opacity="0"/>
+</linearGradient>
+<clipPath id="clip0_2113_7985">
+<rect width="1600" height="90" fill="white"/>
+</clipPath>
 </defs>
-
-<rect width="1600" height="90" fill="transparent"/>
-<line x1="80" y1="45" x2="1520" y2="45"
-      stroke="url(#line)" stroke-width="3" filter="url(#glow)">
-  <animate attributeName="stroke-dasharray"
-           values="0,1600;200,1400;0,1600"
-           dur="4s"
-           repeatCount="indefinite"/>
-</line>
-
-<circle cx="800" cy="45" r="5" fill="#C084FC">
-  <animate attributeName="r" values="5;8;5" dur="2s" repeatCount="indefinite"/>
-</circle>
-
-<text x="800" y="25" text-anchor="middle">&lt;//────────────────────────────//&gt;</text>
 </svg>
