@@ -1,22 +1,22 @@
 <div align="center">
-  <img src="./assets/hero.svg?v=3" width="100%" alt="Karan Vishwakarma">
+  <img src="./assets/hero.svg?v=10" width="100%" alt="Karan Vishwakarma">
   <br>
-  <img src="./assets/fastfetch.svg?v=3" width="100%" alt="Profile summary">
+  <img src="./assets/fastfetch.svg?v=10" width="100%" alt="Profile summary">
 </div>
 
-<img src="./assets/divider.svg?v=3" width="100%" alt="">
+<img src="./assets/divider.svg?v=10" width="100%" alt="">
 
 <div align="center">
-  <img src="./assets/cards/featured-projects.svg?v=4" width="100%" alt="Featured projects">
+  <img src="./assets/cards/featured-projects.svg?v=10" width="100%" alt="Featured projects">
   <br>
-  <img src="./assets/cards/github-stats.svg?v=5" width="100%" alt="GitHub status">
+  <img src="./assets/cards/github-stats.svg?v=10" width="100%" alt="GitHub status">
   <br>
-  <img src="./assets/cards/top-languages.svg?v=4" width="100%" alt="Top languages">
+  <img src="./assets/cards/top-languages.svg?v=10" width="100%" alt="Top languages">
   <br>
-  <img src="./assets/cards/recent-activity.svg?v=4" width="100%" alt="Recent activity">
+  <img src="./assets/cards/recent-activity.svg?v=10" width="100%" alt="Recent activity">
 </div>
 
-<img src="./assets/divider.svg?v=3" width="100%" alt="">
+<img src="./assets/divider.svg?v=10" width="100%" alt="">
 
 ## &gt; connect
 
@@ -29,5 +29,5 @@
 </p>
 
 <div align="center">
-  <img src="./assets/footer.svg?v=3" width="100%" alt="Footer">
+  <img src="./assets/footer.svg?v=10" width="100%" alt="Footer">
 </div>
