@@ -96,9 +96,57 @@
 #Vector_7733 {
   animation: kf_Vector_7733_opacity_0 2s linear infinite;
 }
+@keyframes kf_Vector_7734_opacity_0 {
+  0% {
+    animation-timing-function: linear;
+    opacity: 0.2;
+  }
+  50% {
+    animation-timing-function: linear;
+    opacity: 1;
+  }
+  100% {
+    opacity: 0.2;
+  }
+}
+#Vector_7734 {
+  animation: kf_Vector_7734_opacity_0 2s linear infinite;
+}
+@keyframes kf_Vector_7735_opacity_0 {
+  0% {
+    animation-timing-function: linear;
+    opacity: 1;
+  }
+  75% {
+    animation-timing-function: linear;
+    opacity: 0.15;
+  }
+  100% {
+    opacity: 0.433;
+  }
+}
+#Vector_7735 {
+  animation: kf_Vector_7735_opacity_0 2s linear infinite;
+}
+@keyframes kf_Vector_7736_opacity_0 {
+  0% {
+    animation-timing-function: linear;
+    opacity: 0.3;
+  }
+  62.5% {
+    animation-timing-function: linear;
+    opacity: 1;
+  }
+  100% {
+    opacity: 0.58;
+  }
+}
+#Vector_7736 {
+  animation: kf_Vector_7736_opacity_0 2s linear infinite;
+}
 </style>
 <g id="fastfetch" clip-path="url(#clip0_2114_9700)">
-<path id="Vector" transform="translate(5.78125 5)" d="M1560.87 0H36.5694C9.86611 0 0 13.5 0 43V1028C0 1053.05 6.86611 1068 37.5694 1068H1552.87C1583.57 1068 1598.44 1059.05 1598.44 1032V43C1598.44 12.9543 1589.57 0 1560.87 0Z" fill="url(#paint0_linear_2114_9700)" stroke="#8B5CF6" stroke-opacity="0.72" stroke-width="10"/>
+<path id="Vector" transform="translate(5.78125 5)" d="M1560.87 0H36.5694C9.86611 0 0 13.5 0 43V1028C0 1053.05 6.86611 1068 37.5694 1068H1552.87C1583.57 1068 1598.44 1059.05 1598.44 1032V43C1598.44 12.9543 1589.57 0 1560.87 0Z" fill="url(#paint0_linear_2114_9700)" stroke="#8B5CF6" stroke-opacity="0.72" stroke-width="6"/>
 <path id="Vector_2" transform="translate(20.7148 22)" d="M1557.15 0H11.4201C5.11297 0 0 5.8203 0 13V1021C0 1028.18 5.11297 1034 11.4201 1034H1557.15C1563.46 1034 1568.57 1028.18 1568.57 1021V13C1568.57 5.8203 1563.46 0 1557.15 0Z" stroke="white" stroke-opacity="0.055"/>
 <g id="Group" opacity="0.1" transform="translate(6 4)">
 <g id="Vector_3" transform="translate(0 133)">
@@ -7927,10 +7975,15 @@
 <path id="Vector_7729" transform="translate(92 61)" d="M3 6C4.65685 6 6 4.65685 6 3C6 1.34315 4.65685 0 3 0C1.34315 0 0 1.34315 0 3C0 4.65685 1.34315 6 3 6Z" fill="#C084FC"/>
 <path id="Vector_7730" transform="translate(0 129)" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" fill="#C084FC"/>
 </g>
-<g id="Frame_2" filter="url(#filter1_f_2114_9700)" transform="translate(88 137)">
+<g id="Frame_2" filter="url(#filter1_f_2114_9700)" transform="translate(1378 111)">
 <path id="Vector_7731" transform="translate(41)" d="M4 8C6.20914 8 8 6.20914 8 4C8 1.79086 6.20914 0 4 0C1.79086 0 0 1.79086 0 4C0 6.20914 1.79086 8 4 8Z" fill="#C084FC"/>
 <path id="Vector_7732" transform="translate(92 61)" d="M3 6C4.65685 6 6 4.65685 6 3C6 1.34315 4.65685 0 3 0C1.34315 0 0 1.34315 0 3C0 4.65685 1.34315 6 3 6Z" fill="#C084FC"/>
 <path id="Vector_7733" transform="translate(0 129)" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" fill="#C084FC"/>
+</g>
+<g id="Frame_3" filter="url(#filter2_f_2114_9700)" transform="translate(88 137)">
+<path id="Vector_7734" transform="translate(41)" d="M4 8C6.20914 8 8 6.20914 8 4C8 1.79086 6.20914 0 4 0C1.79086 0 0 1.79086 0 4C0 6.20914 1.79086 8 4 8Z" fill="#C084FC"/>
+<path id="Vector_7735" transform="translate(92 61)" d="M3 6C4.65685 6 6 4.65685 6 3C6 1.34315 4.65685 0 3 0C1.34315 0 0 1.34315 0 3C0 4.65685 1.34315 6 3 6Z" fill="#C084FC"/>
+<path id="Vector_7736" transform="translate(0 129)" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" fill="#C084FC"/>
 </g>
 </g>
 <defs>
@@ -7940,6 +7993,11 @@
 <feGaussianBlur stdDeviation="6" result="effect1_foregroundBlur_2114_9700"/>
 </filter>
 <filter id="filter1_f_2114_9700" x="-12" y="-12" width="122" height="163" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="6" result="effect1_foregroundBlur_2114_9700"/>
+</filter>
+<filter id="filter2_f_2114_9700" x="-12" y="-12" width="122" height="163" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
 <feFlood flood-opacity="0" result="BackgroundImageFix"/>
 <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
 <feGaussianBlur stdDeviation="6" result="effect1_foregroundBlur_2114_9700"/>

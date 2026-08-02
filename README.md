@@ -1,7 +1,7 @@
 <div align="center">
   <img src="./assets/hero.svg?v=10" width="100%" alt="Karan Vishwakarma">
   <br>
-  <img src="./assets/fastfetch.svg?v=10" width="100%" alt="Profile summary">
+  <img src="./assets/fastfetch.svg?v=11" width="100%" alt="Profile summary">
 </div>
 
 <img src="./assets/divider.svg?v=10" width="100%" alt="">
