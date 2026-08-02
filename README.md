@@ -7,13 +7,13 @@
 <img src="https://raw.githubusercontent.com/KaranVish20/KaranVish20/main/assets/divider.svg?t=20260802_1526" width="100%" alt="">
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/KaranVish20/KaranVish20/main/assets/cards/featured-projects.svg?t=20260802_1526" width="100%" alt="Featured projects">
+  <img src="./assets/cards/featured-projects.svg" width="100%" alt="Featured projects">
   <br>
-  <img src="https://raw.githubusercontent.com/KaranVish20/KaranVish20/main/assets/cards/github-stats.svg?t=20260802_1526" width="100%" alt="GitHub status">
+  <img src="./assets/cards/github-stats.svg" width="100%" alt="GitHub status">
   <br>
-  <img src="https://raw.githubusercontent.com/KaranVish20/KaranVish20/main/assets/cards/top-languages.svg?t=20260802_1526" width="100%" alt="Top languages">
+  <img src="./assets/cards/top-languages.svg" width="100%" alt="Top languages">
   <br>
-  <img src="https://raw.githubusercontent.com/KaranVish20/KaranVish20/main/assets/cards/recent-activity.svg?t=20260802_1526" width="100%" alt="Recent activity">
+  <img src="./assets/cards/recent-activity.svg" width="100%" alt="Recent activity">
 </div>
 
 <img src="https://raw.githubusercontent.com/KaranVish20/KaranVish20/main/assets/divider.svg?t=20260802_1526" width="100%" alt="">
