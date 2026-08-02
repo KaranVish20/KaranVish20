@@ -1,22 +1,22 @@
 <div align="center">
-  <img src="./assets/hero.svg?v=10" width="100%" alt="Karan Vishwakarma">
+  <img src="https://raw.githubusercontent.com/KaranVish20/KaranVish20/main/assets/hero.svg?t=20260802_1526" width="100%" alt="Karan Vishwakarma">
   <br>
-  <img src="./assets/fastfetch.svg?v=11" width="100%" alt="Profile summary">
+  <img src="https://raw.githubusercontent.com/KaranVish20/KaranVish20/main/assets/fastfetch.svg?t=20260802_1526" width="100%" alt="Profile summary">
 </div>
 
-<img src="./assets/divider.svg?v=10" width="100%" alt="">
+<img src="https://raw.githubusercontent.com/KaranVish20/KaranVish20/main/assets/divider.svg?t=20260802_1526" width="100%" alt="">
 
 <div align="center">
-  <img src="./assets/cards/featured-projects.svg?v=10" width="100%" alt="Featured projects">
+  <img src="https://raw.githubusercontent.com/KaranVish20/KaranVish20/main/assets/cards/featured-projects.svg?t=20260802_1526" width="100%" alt="Featured projects">
   <br>
-  <img src="./assets/cards/github-stats.svg?v=10" width="100%" alt="GitHub status">
+  <img src="https://raw.githubusercontent.com/KaranVish20/KaranVish20/main/assets/cards/github-stats.svg?t=20260802_1526" width="100%" alt="GitHub status">
   <br>
-  <img src="./assets/cards/top-languages.svg?v=10" width="100%" alt="Top languages">
+  <img src="https://raw.githubusercontent.com/KaranVish20/KaranVish20/main/assets/cards/top-languages.svg?t=20260802_1526" width="100%" alt="Top languages">
   <br>
-  <img src="./assets/cards/recent-activity.svg?v=10" width="100%" alt="Recent activity">
+  <img src="https://raw.githubusercontent.com/KaranVish20/KaranVish20/main/assets/cards/recent-activity.svg?t=20260802_1526" width="100%" alt="Recent activity">
 </div>
 
-<img src="./assets/divider.svg?v=10" width="100%" alt="">
+<img src="https://raw.githubusercontent.com/KaranVish20/KaranVish20/main/assets/divider.svg?t=20260802_1526" width="100%" alt="">
 
 ## &gt; connect
 
@@ -29,5 +29,5 @@
 </p>
 
 <div align="center">
-  <img src="./assets/footer.svg?v=10" width="100%" alt="Footer">
+  <img src="https://raw.githubusercontent.com/KaranVish20/KaranVish20/main/assets/footer.svg?t=20260802_1526" width="100%" alt="Footer">
 </div>
