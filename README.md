@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/KaranVish20/KaranVish20/main/assets/hero.svg?t=20260802_1526" width="100%" alt="Karan Vishwakarma">
   <br>
-  <img src="https://raw.githubusercontent.com/KaranVish20/KaranVish20/main/assets/fastfetch.svg?t=20260802_1526" width="100%" alt="Profile summary">
+  <img src="https://raw.githubusercontent.com/KaranVish20/KaranVish20/main/assets/fastfetch.svg?t=20260802_1532" width="100%" alt="Profile summary">
 </div>
 
 <img src="https://raw.githubusercontent.com/KaranVish20/KaranVish20/main/assets/divider.svg?t=20260802_1526" width="100%" alt="">
